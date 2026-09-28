@@ -7,6 +7,10 @@ Made using parts from a broken TAZ Pro 3D Printer. Most other parts can commonly
 
 Designed using knowledge gained from designing printNC and CindyMill-style machines, but much cheaper so I can actually get them fully funded by HackClub.
 
+Wiring Diagram:
+<img width="1187" height="1127" alt="PSU" src="https://github.com/user-attachments/assets/4d5b20e0-3834-448e-8d63-44f185e1e8c0" />
+
+
 Features:
 - 500w TRUE spindle (not a DC motor with a collet setscrewed on)
 - ~ 8in x 10in x however tall you want working area
