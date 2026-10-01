@@ -16,6 +16,7 @@ Features:
 - ~ 8in x 10in x however tall you want working area
 - Should be able to do Aluminum
 - CNC Shield control system with DRV8825 for easy upgradability and low cost
+- GRBL firmware
 
 Easy improvements:
 - Add an RPi for wireless control and more features, such as a screen, physical controls, a camera, etc
