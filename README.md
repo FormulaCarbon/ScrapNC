@@ -1,7 +1,8 @@
 # ScrapNC
 Hobby CNC made from an old 3D-printer because I did not have the money for the big one.
 
-<img width="734" height="754" alt="image" src="https://github.com/user-attachments/assets/e4de9629-7665-4768-a199-458a1a997a6e" />
+<img width="611" height="726" alt="image" src="https://github.com/user-attachments/assets/11b02476-4809-420d-bdb1-46ec9a007d25" />
+
 
 Made using parts from a broken TAZ Pro 3D Printer. Most other parts can commonly be found in workshops as well, or 3D-printed. This CNC is meant to be as cheap as possible using parts that I already have.
 
